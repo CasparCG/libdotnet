@@ -1,0 +1,11 @@
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.dll.config
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\bin\Debug\Svt.Network.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\bin\Debug\Svt.Network.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.Properties.Resources.resources
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\ResGen.read.1.tlog
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\ResGen.write.1.tlog
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.pdb

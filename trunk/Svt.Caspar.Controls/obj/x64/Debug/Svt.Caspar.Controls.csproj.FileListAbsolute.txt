@@ -1,0 +1,1 @@
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Controls\obj\x64\Debug\ResolveAssemblyReference.cache

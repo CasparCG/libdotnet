@@ -1,0 +1,5 @@
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Network\bin\x86\Debug\Svt.Network.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Network\bin\x86\Debug\Svt.Network.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Network\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Network\obj\x86\Debug\Svt.Network.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Network\obj\x86\Debug\Svt.Network.pdb

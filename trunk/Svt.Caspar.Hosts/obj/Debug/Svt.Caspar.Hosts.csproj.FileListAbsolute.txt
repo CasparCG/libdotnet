@@ -1,0 +1,9 @@
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.Hosts.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.Hosts.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Network.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Network.pdb
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.dll
+C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.pdb
