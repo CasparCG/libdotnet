@@ -91,7 +91,11 @@ namespace Svt.Caspar.AMCP
 				string pathName = templateInfo.Substring(templateInfo.IndexOf('\"')+1, templateInfo.IndexOf('\"', 1)-1);
 				string folderName = "";
 				string fileName = "";
-				int delimIndex = pathName.LastIndexOf('\\');
+
+                int delimIndex = pathName.LastIndexOf('/'); // 2.0.7
+                if (delimIndex == -1)
+                    delimIndex = pathName.LastIndexOf('\\'); // 2.0.6
+
 				if (delimIndex != -1)
 				{
 					folderName = pathName.Substring(0, delimIndex);
@@ -130,7 +134,11 @@ namespace Svt.Caspar.AMCP
 				string pathName = mediaInfo.Substring(mediaInfo.IndexOf('\"') + 1, mediaInfo.IndexOf('\"', 1) - 1);
 				string folderName = "";
 				string fileName = "";
-				int delimIndex = pathName.LastIndexOf('\\');
+
+                int delimIndex = pathName.LastIndexOf('/'); // 2.0.7
+                if (delimIndex == -1)
+                    delimIndex = pathName.LastIndexOf('\\'); // 2.0.6
+
 				if (delimIndex != -1)
 				{
 					folderName = pathName.Substring(0, delimIndex);
