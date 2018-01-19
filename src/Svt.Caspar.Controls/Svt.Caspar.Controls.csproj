@@ -110,10 +110,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AxInterop.ShockwaveFlashObjects">
-      <HintPath>..\..\dependencies\AxInterop.ShockwaveFlashObjects.dll</HintPath>
+      <HintPath>..\..\lib\AxInterop.ShockwaveFlashObjects.dll</HintPath>
     </Reference>
     <Reference Include="Interop.ShockwaveFlashObjects">
-      <HintPath>..\..\dependencies\Interop.ShockwaveFlashObjects.dll</HintPath>
+      <HintPath>..\..\lib\Interop.ShockwaveFlashObjects.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
