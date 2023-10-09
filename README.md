@@ -1,5 +1,10 @@
 # CasparCG .NET Framework
 
+This project is no longer maintained and will likely not work well with recent CasparCG releases.  
+We recommend using https://github.com/dust63/StartDust.CasparCG.net as an alternative .NET library, or check https://casparcg.com/ for libraries for other languages.
+
+
+
 > A simple framework used when building solutions based on the .NET platform. Provides the ability to communicate with a CasparCG server and send commands to it.
 
 ![stable](https://img.shields.io/badge/stable-v1.0.0-lightgray.svg?style=flat-square)
